@@ -1,0 +1,5 @@
+# Files that run on Linux keep LF line endings in every checkout.
+*.sh text eol=lf
+*.service text eol=lf
+*.py text eol=lf
+*.bat text eol=crlf
